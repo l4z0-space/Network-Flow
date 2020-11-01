@@ -1,0 +1,9 @@
+
+Getting input...
+Success.
+
+Augmenting paths...
+  Path: [ 0 -> 2 -> 1 ] flow: 5
+  Path: [ 0 -> 2 -> 4 -> 1 ] flow: 5
+  Path: [ 0 -> 3 -> 4 -> 1 ] flow: 50
+Maximum flow: 60
