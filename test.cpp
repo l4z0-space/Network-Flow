@@ -13,6 +13,12 @@ using namespace std;
     > Uses BFS for finding the shortest path in terms of hops
     between start and finish node.
     > Doesn't get trapped to send flow via long paths.
+
+    INPUT FORMAT
+        | number of edges - n
+        | start, sink - s, t
+        | n pair of nodes - a, b
+
 */
 
 const int MAX_V = 100;
@@ -122,4 +128,3 @@ int main(){
 }
 
 
-// cd "/Users/admin/Desktop/CPP/" && g++ -std=c++11  test.cpp -o test && "/Users/admin/Desktop/CPP/"test
